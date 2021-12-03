@@ -1,5 +1,5 @@
 {
-  "name": "svu resultsNewBlankTask",
+  "name": "SVU Results Automation",
   "description": "Start with a blank project to design a new task automation",
   "main": "Main.xaml",
   "dependencies": {
